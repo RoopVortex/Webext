@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453659146371",
+    "project_id": "chatx-1608",
+    "storage_bucket": "chatx-1608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453659146371:android:3db89c531a84b652c5c3b6",
+        "android_client_info": {
+          "package_name": "com.example.webext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453659146371-q8jiooo3ejanhiren2ju6gvjll53e7nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webext",
+            "certificate_hash": "947e56b930f4a81d66512e197a633a612528cbf8"
+          }
+        },
+        {
+          "client_id": "453659146371-5morkqb15r9ckss785fmntht52cmf1hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcachy0_P7Ct9l-TsU8gzC3kncywFf3yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453659146371-5morkqb15r9ckss785fmntht52cmf1hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
